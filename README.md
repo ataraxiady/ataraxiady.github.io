@@ -1,44 +1,8 @@
-This repository is no longer maintained. 
-============
 
-Herring Cove
-============
+## 소개
 
-Herring Cove is a clean and responsive theme for Jekyll. 
+Github pages 블로그를 운영하는 중입니다. 회사라는 틀에 박혀 찍어내기식 프로그래밍에 지친 나머지 블로그에서만큼은 제가 하고 싶은 프로젝트를 진행하고 싶어 만들게 되었습니다. 
+* AI, Data Science 중독자입니다. 
+* 책을 읽고, 리뷰를 쓰고, 베타리딩 및 베타테스트에 참가하길 좋아합니다.
+* 소소하지만 살면서 얻은 깨달음이나, 개발자로서 경험하고 배웠던 것들을 공유할 예정이니 가끔 들려주시면 감사하겠습니다. :)
 
-
-### Overview 
-
-* Fixed Sidebar with social links
-* Minimal design 
-* Comments by Disqus
-* Social Sharing abilities 
-* Easy to configure
-* Based on Bootstrap
-
-### Screenshots
-
-![screenshot](/images/screenshot1.png)
-![screenshot](/images/screenshot2.png)
-
-### Setup
-
-1. Install Jekyll
-2. Fork or [download](https://github.com/arnp/herring-cove/archive/master.zip) this theme repo
-3. Edit the `_config.yml` file
-
-You can change the showcase image by replacing `showcase.jpg` file in the `images` folder. I'll try to find a better way to do this soon. 
-
-### Download
-
-[download](https://github.com/arnp/herring-cove/archive/master.zip)
-
-### License
-* [MIT](http://opensource.org/licenses/MIT)
-
--------------
-Herring Cove is always a work in progress and as such, I hope to clean up the code and add features as time permits. Feel free to add your own additions. 
-
-*What's with the name?*
-
-[Herring Cove](http://www.capecodbeachchair.com/beachguide/index.cfm?page=3&BeachID=5) is a beach on Cape Cod in Provincetown, Massachusetts. If you're in the area, be sure to check it out!
