@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Statistics & R
-slug: r
+title: Data Mining
+slug: data mining
 category: dev
 menu: false
-order: 1
+order: 2
 ---

@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: ML
-slug: ml
+title: Android Studio
+slug: android studio
 category: dev
 menu: false
 order: 1
