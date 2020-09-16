@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Data Mining
-slug: data mining
+title: GitHub.io
+slug: github.io
 category: dev
 menu: false
-order: 3
+order: 1
 ---

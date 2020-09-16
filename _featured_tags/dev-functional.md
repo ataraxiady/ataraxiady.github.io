@@ -4,5 +4,5 @@ title: Funcational Programming
 slug: funcational programming
 category: dev
 menu: false
-order: 3
+order: 4
 ---
