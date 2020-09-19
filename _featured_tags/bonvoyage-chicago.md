@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Chicago
 slug: chicago
-category: bon voyage
+category: bonvoyage
 menu: false
 order: 2
 ---

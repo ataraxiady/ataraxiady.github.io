@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Bon voyage
-slug: bon voyage
+title: Bon Voyage
+slug: bonvoyage
 menu: true
 submenu: true
 order: 4
