@@ -2,8 +2,8 @@
 layout: post
 title:  "Peter Piper Picked A Peck Of Pickled Pipers"
 subtitle:   "exhibition"
-categories: bon voyage
-tags: korea exhibition
+categories: bonvoyage
+tags: korea  exhibition
 comments: true
 header-img: 
 ---
