@@ -41,7 +41,7 @@ header-img:
 
 
 ![그림5](https://ataraxiady.github.io/assets/img/bonvoyage/korea/2020-09-20-exhibition-5.jpg)
-나무를 담은 사진을 직물에 프린트하여 나무를 재구성한 작품이다.
+나무를 담은 사진을 직물에 프린트하여 나무를 재구성한 작품이다.  
 현재를 담으려고 찍는 사진은 사실 현재를 담을 수 없는 그런 아이러니함을 느꼈달까. 
 
 ![그림6](https://ataraxiady.github.io/assets/img/bonvoyage/korea/2020-09-20-exhibition-6.jpg)
@@ -67,4 +67,4 @@ _파란 작품 앞에서의 나 ^^v_
 실제 전시는 마무리가 되었지만 온라인 전시도 함께있다.  
 이 글은 지극히 내 생각을 많이 담은 것이니 작가님의 의도와 표현하고자하는 바를 직접 느껴보면 좋을 것같다.  
 
-[개인전 웹사이트] (https://www.pickledpipers.com/)
+[개인전 웹사이트] <https://www.pickledpipers.com/>
