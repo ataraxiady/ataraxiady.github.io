@@ -25,7 +25,7 @@ header-img:
 ![그림1](https://ataraxiady.github.io/assets/img/bonvoyage/korea/2020-10-02-cafe1.jpeg)  
 ![그림2](https://ataraxiady.github.io/assets/img/bonvoyage/korea/2020-10-02-cafe2.jpeg)
 아르바이트생 없이 사장님이 계속 계시는 것 같은데  
-그래서 그런지 사장님의 취향이 더 잘 뭍어나는 느낌
+그래서 그런지 사장님의 취향이 더 잘 묻어나는 느낌
 
 ![그림3](https://ataraxiady.github.io/assets/img/bonvoyage/korea/2020-10-02-cafe3.jpeg)
 친구는 패션후르츠 에이드, 나는 바닐라라떼를 마셨다.  
