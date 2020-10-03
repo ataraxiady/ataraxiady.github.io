@@ -27,7 +27,7 @@ header-img:
 아르바이트생 없이 사장님이 계속 계시는 것 같은데  
 그래서 그런지 사장님의 취향이 더 잘 뭍어나는 느낌
 
-![그림3](https://ataraxiady.github.io/assets/img/bonvoyage/korea/2020-10-02--cafe3.jpeg)
+![그림3](https://ataraxiady.github.io/assets/img/bonvoyage/korea/2020-10-02-cafe3.jpeg)
 친구는 패션후르츠 에이드, 나는 바닐라라떼를 마셨다.  
 시럽을 듬뿍 넣어주셨는지 바닐라 라떼 한모금 마시자마자 당충전이 되면서 에너지가 솟고 두뇌가 회전하는 기분을 느낄 수 있었다.  
  
