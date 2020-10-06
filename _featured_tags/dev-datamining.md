@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: Data Mining
-slug: data mining
+slug: datamining
 category: dev
 menu: false
 order: 3
