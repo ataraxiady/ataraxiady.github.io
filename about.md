@@ -5,8 +5,6 @@ menu: true
 order: 10
 ---
 
-## 소개
-
 Hello! Jessica here!
 Welcome to my blog✨    
 I study Computer Science in the US, currently in Korea tho.  
