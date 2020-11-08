@@ -1,4 +1,4 @@
 
 ## About
 
-This is lifestyle &  CS GitHub.io Blog    
+This is a lifestyle &  CS GitHub.io Blog    
