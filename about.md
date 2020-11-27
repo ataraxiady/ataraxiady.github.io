@@ -4,7 +4,8 @@ title: About
 menu: true
 order: 10
 ---
-반갑습니다😊  
-Computer Science를 공부하고 있는 대학생입니다  
+  
+Welcome!   
+'뭐든 하다보면 늘겠지🤔' 라는 마음으로 다양한 생각을 담고있어요    
 
 
