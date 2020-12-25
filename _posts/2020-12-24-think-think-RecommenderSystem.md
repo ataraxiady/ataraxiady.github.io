@@ -167,6 +167,12 @@ SKT 와 관련된 서비스라 그런지 확실히 최신 기술이고 MZ세대�
 
 <img src="https://ataraxiady.github.io/assets/img/think/recommendersystem6.jpg">
 
+
++추가글  
+요즘 유튜브 프리미엄을 사용하면서 유투브 뮤직도 같이 사용하고있는데  
+솔직히 사용하면서 어딘가 불편한 이 느낌을 지울 수 없지만 추천곡은 뽑는 수준이 역시 알고리즘의 명가 유투브답다.  
+내가 좋아하는걸 딱 잘 아는 것보니까 유투브 알고리즘이 그대로 사용되나보다^^ 굿굿  
+<img src="https://ataraxiady.github.io/assets/img/think/recommendersystem7.jpg">
 ---
 
 ## 아니 왜 추천알고리즘 왜 안써요?
