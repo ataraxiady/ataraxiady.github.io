@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "넷플릭스 추천까지는 아니지만 뻔하지 않은 것도 있달까 (스포없음)"
+title:  "넷플릭스 추천까지는 아니지만 뻔하지 않은 것도 있달까"
 subtitle:   ""
 categories: think
 tags: think
