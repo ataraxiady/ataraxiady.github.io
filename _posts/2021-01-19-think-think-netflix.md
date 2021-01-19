@@ -23,7 +23,7 @@ __1월 한달 시청기록을 토대로 다큐, 넷플릭스 오리지널, 드�
 
 ---
 
-## 다큐 부문 
+# [다큐 부문] 
 <img src="https://ataraxiady.github.io/assets/img/think/netflix1.jpg"> 
 
 ### 도시인처럼
@@ -35,7 +35,7 @@ __1월 한달 시청기록을 토대로 다큐, 넷플릭스 오리지널, 드�
 
 ---
 
-## 넷플릭스 오리지널 부문 
+# [넷플릭스 오리지널 부문] 
 
 <img src="https://ataraxiady.github.io/assets/img/think/netflix2.jpg"> 
 
@@ -98,7 +98,7 @@ __1월 한달 시청기록을 토대로 다큐, 넷플릭스 오리지널, 드�
 
 ---
 
-## 드라마 부문
+# [드라마 부문] 
 
 <img src="https://ataraxiady.github.io/assets/img/think/netflix8.jpg"> 
 
@@ -147,7 +147,7 @@ __1월 한달 시청기록을 토대로 다큐, 넷플릭스 오리지널, 드�
     
 ---
 
-## 영화 부문
+# [영화 부문] 
 
 <img src="https://ataraxiady.github.io/assets/img/think/netflix13.jpg"> 
 
