@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Data Mining
+title: Data Mining (w/ R)
 slug: datamining
 category: dev
 menu: false
-order: 3
+order: 2
 ---

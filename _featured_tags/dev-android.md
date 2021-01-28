@@ -4,5 +4,5 @@ title: Android Studio
 slug: android studio
 category: dev
 menu: false
-order: 2
+order: 4
 ---
