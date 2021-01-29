@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Reproducibility and Replicability"
+subtitle:   
+categories: dev
+tags: machinelearning
+comments: true
+header-img: 
+---
+머신러닝 첫 번째 수업에서 다룬 주제 중 하나는 Reproducibility 과 Replicability 이다.  
+두개의 미묘한 차이가 있지만 한국어로는 둘 다 재현성으로 번역되는 것같아서 따로 번역하지않고 영어 단어 그대로 작성하도록 하겠다.  
+
+---  
+
+## Reproducibility
+* 오리지널 데이터를 기준으로, 동일한(or 호환가능한) 머신에서 동일한 알고리즘을 사용하여 동일한 일(task)을 실행하면 머신러닝 활동은 동일한 결과와 결론에 다다를 것이다.
+* 만약 예상했던 결과가 재현(reproduce)되지 않는다면 데이터, 알고리즘, 머신 중에서 설명되지않는 상호작용이 있는 것이다.
+* 이러한 문제는 대부분 코드에 초기화 되지않은 변수들이나 완벽하지않거나 부정확한 documentation에서 비롯된다.
+  
+  
+## Replicability
+* 동일한 머신, 알고리즘, task에 __다른 데이터__ 를 사용했을 때 __동일한 결론__ 에 이르는 결과를 얻어야한다.
+* 만약 예상한 결과가 재현(replicate)되지 않는다면 이는 몇가지 correlations이 설명되지않는다거나 알고리즘이 뭔가 부족하다거나 추가 task가 필요하다거나 다른 알고리즘을 사용해야한다는 것 등의 문제를 의심해볼 수 있으며 task의 디자인적 흠을 의심하고 검토해봐야한다.
+
+---
+이 두 개념은 데이터 과학 뿐 만 아니라사회 과학 분야에서 널리 사용되는 개념인 것같다.  
+나의 어색한 번역과 엉성한 설명이 안타깝다 D:
