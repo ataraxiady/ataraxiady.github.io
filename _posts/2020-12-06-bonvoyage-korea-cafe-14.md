@@ -15,7 +15,7 @@ header-img:
   
 집에서는 멀지만 가고 싶어 점 찍어둔 카페가 있었는데 마침 근처에 볼 일이 생겨서 겸사겸사 들리게 되었다.  
 
-<img src="https://ataraxiady.github.io/assets/img/bonvoyage/korea/2020-12-01-cafe1.jpeg">
+<img src="https://ataraxiady.github.io/assets/img/bonvoyage/korea/2021-01-31-cafe1.jpeg">
   
 이 카페에 가장 유명한 포토 스팟인 건물 벽이다.  
 아 참고로 여기는 창고를 개조해서 만든 인스타갬성 카페이다.  
