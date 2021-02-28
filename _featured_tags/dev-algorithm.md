@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Machine Learning (w/ Python)
-slug: machinelearning
+title: Algorithm
+slug: algorithm
 category: dev
 menu: false
 order: 1

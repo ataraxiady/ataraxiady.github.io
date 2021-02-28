@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Data Mining (w/ R)
-slug: datamining
+title: Git
+slug: git
 category: dev
 menu: false
 order: 2

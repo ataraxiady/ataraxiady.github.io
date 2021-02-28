@@ -3,7 +3,7 @@ layout: post
 title:  "[R] 랜덤포레스트 에러 - The response has five or fewer unique values.  Are you sure you want to do regression?"
 subtitle:   
 categories: dev
-tags: datamining
+tags: r
 comments: true
 header-img: 
 ---

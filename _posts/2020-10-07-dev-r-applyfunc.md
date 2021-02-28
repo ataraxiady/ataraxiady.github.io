@@ -3,7 +3,7 @@ layout: post
 title:  "[R] apply() Function과 예시"
 subtitle:   
 categories: dev
-tags: datamining
+tags: r
 comments: true
 header-img: 
 ---

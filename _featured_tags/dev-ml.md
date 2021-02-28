@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: GitHub.io
-slug: github.io
+title: Machine Learning
+slug: ml
 category: dev
 menu: false
 order: 3

@@ -3,7 +3,7 @@ layout: post
 title:  "머신러닝과 데이터마이닝의 차이점"
 subtitle:   
 categories: dev
-tags: machinelearning
+tags: ml
 comments: true
 header-img: 
 ---
