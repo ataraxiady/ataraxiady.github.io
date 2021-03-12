@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Git
-slug: git
+title: BOJ
+slug: boj
 category: dev
 menu: false
 order: 2
