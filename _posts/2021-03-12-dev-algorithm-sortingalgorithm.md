@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "기본 정렬 알고리즘 요약(선택,버블,삽입,합병,퀵,힙)"
+title:  "기본 정렬 알고리즘 요약(선택,버블,삽입,합병,퀵,힙,카운팅)"
 subtitle:   
 categories: dev
 tags: algorithm
@@ -16,6 +16,7 @@ header-img:
 [합병 정렬 (Merge sort)](#합병-정렬-merge-sort)  
 [퀵 정렬 (Quick sort)](#퀵-정렬-quick-sort)  
 [힙 정렬 (Heap sort)](#힙-정렬-heap-sort)  
+[카운팅 정렬 (Counting sort)](#카운팅-정렬-counting-sort)
 
 ---
 
@@ -211,7 +212,43 @@ def heapSort(arr):
 		heapify(arr, i, 0)
 ```
 
+## 카운팅 정렬 (Counting sort)
+- 말로 설명하는 것이 더 어려운 것 같아 아래 과정 이미지를 첨부한다.
+<img src="https://ataraxiady.github.io/assets/img/dev/algorithm/countingsort.jpg">
+
+- 시간복잡도가 O(n)
+- 가장 큰 장점은 linear time을 소요하기에 비교를 기반으로한 알고리즘들보다 빠르다는 것이다.
+- 단점은 -1은 허용이 안된다는 등 입력에 제한이 있다는 것과 counting을 위한 배열이 필요하기에 만약 정렬 해야할 숫자가 많다면 많은 space를 차지한다는 것이다.
+
+```python
+def counting_sort(array, max):
+ 
+    # 0으로 초기화 된 counting array 생성(첨부 이미지 1단계)
+    counting_array = [0]*(max+1)
+ 
+    # counting array에 input array내 원소의 빈도수 담기(첨부 이미지 2단계)
+    for i in array:
+        counting_array[i] += 1
+ 
+    #counting array 업데이트(첨부 이미지 3단계)
+    for i in range(max):
+        counting_array[i+1] += counting_array[i]
+ 
+    #output array 생성
+    output_array = [-1]*len(array)
+ 
+    # output array에 정렬하기(첨부 이미지 4단계)
+    for i in array:
+        output_array[counting_array[i] -1] = i
+        counting_array[i] -= 1
+    return output_array
+```
 
 
 
-<출처>geeksforgeeks
+
+---
+
+##### 참고 사이트
+<https://www.geeksforgeeks.org/>  
+<https://elrion018.tistory.com/37>  
