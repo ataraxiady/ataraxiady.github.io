@@ -29,6 +29,8 @@ Supervised model(target variable이 있는 모델)이 좋은 모델인지 아닌
   
 ## Interval 타겟 Learning Evaluations
   
+(* 수식이 두번 연속으로 보이는 오류가 있다😭 아직 고치질못했으니 참고해주시길)
+  
 ### 1. Root Average Squared Error(RASE)  
 $$\sqrt{\frac{1}{n}\sum_{i=1}^{n}(y_i - \hat{y_i})^2}$$  
 - $$y_i$$ 는 observed target value  
