@@ -7,9 +7,9 @@ tags: ml
 comments: true
 header-img: 
 ---
-<!-- <script type="text/javascript" 
+<script type="text/javascript" 
 src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML">
-</script> -->
+</script>
 Supervised model(target variable이 있는 모델)이 좋은 모델인지 아닌지 판단하는 방법에는 여러가지가 있다.  
 앞으로 소개할 learning evaluations은 어떤 모델을 사용하는 것이 좋을지 판단해주는 지표들이다.  
 다양한 지표들이 있기에 타겟의 유형별(Interval, Binary, Nominal)로 나누어 글을 써보려고 하는데 이 글은 `Interval 타겟` 의 learning evalutations이다.  
