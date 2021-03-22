@@ -56,5 +56,5 @@ def fibonacci(n):
         f.append(f[i - 1] + f[i - 2])
     return f[n]
 
-print(fibonacci(6))
+print(fibonacci(n))
 ```
