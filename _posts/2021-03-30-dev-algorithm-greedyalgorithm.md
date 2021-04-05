@@ -10,7 +10,7 @@ header-img:
 
 ## 그리디 알고리즘 (Greedy Algorithm)
 - 항상 최적의 해를 구하는 동적 계획법과는 다르게 그리디 알고리즘은 현재 단계에서 선택할 수 있는 최적의 선택만을 하여 답을 구성해나가는 방식이다. 그러나 이 방식은 결론적으로 최적의 해를 구한다고 단정지을 수 는 없다.  
-<img src="https://ataraxiady.github.io/assets/img/\dev\algorithm/greedyfail.png">
+<img src="https://ataraxiady.github.io/assets/img/dev/algorithm/greedyfail.png">
   
 + 그리디 알고리즘과 동적 계획법은 상호보완적인데 그리디 알고리즘은 __빠른 계산 속도__ 을 가지고 동적 계획법은 __최적의 해__ 를 구한다는 점에서 장점이 있다.
 + 그리디는 아래 두 가지 조건이 성립되어야 잘 작동할 수 있다.
